@@ -1,4 +1,10 @@
-
+<div style="display: inline_block"><br>
+ <h1>hdgamer1404Jonas</h1>
+ <p>- hobby developer from germany<br>- 8 years programming experience<br>- computer enthusiast</p>
+  <img height="100" align="right" alt="Erica-Ruby" height="100" width="100" src="https://avatars.githubusercontent.com/u/65252066?v=4">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+ </div>
 
 </br>
 
@@ -8,6 +14,12 @@
 </div>
  
 </br>
+
+ ## Contact
+  <div style="display: inline_block"><br>
+ <p>Email: hdgamer1404Jonas@gmail.com</p>
+ Discord: hdgamer1404Jonas#7987 <img align="center" height: "20" src="https://cdn.discordapp.com/avatars/531177210779009025/6a95fc568f40077b4608ea768a72a31c.webp?size=32">
+ </div>
 
 
  ## Skills
@@ -27,9 +39,7 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-
- 
+  
   ![Snake animation](https://github.com/hdgamer1404Jonas/hdgamer1404Jonas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
