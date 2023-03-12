@@ -18,7 +18,7 @@
  ## Contact
   <div style="display: inline_block"><br>
  <p>Email: hdgamer1404Jonas@gmail.com</p>
- Discord: hdgamer1404Jonas#7987 <img align="center" height: "20" src="https://cdn.discordapp.com/avatars/531177210779009025/6a95fc568f40077b4608ea768a72a31c.webp?size=32">
+ Discord: hdgamer1404Jonas#7987
  </div>
 
 
