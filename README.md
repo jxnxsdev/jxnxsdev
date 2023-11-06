@@ -12,7 +12,9 @@
   <a href="https://github.com/hdgamer1404Jonas">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdgamer1404Jonas&layout=compact&langs_count=16&theme=dracula"/>
 </div>
- 
+
+ [![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdgamer1404jonas)](https://github.com/hdgamer1404jonas)
+
 </br>
 
  ## Contact
