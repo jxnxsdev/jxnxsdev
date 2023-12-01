@@ -1,7 +1,5 @@
 # Jonas' GitHub Profile
 
-Hey there! 👋 Welcome to my GitHub profile. I'm Jonas, a passionate hobby developer based in Germany with 8 years of coding experience. I enjoy working with a variety of programming languages to bring ideas to life.
-
 ## 🚀 About Me
 - 🇩🇪 Based in Germany
 - 💻 Hobby developer for 8 years
