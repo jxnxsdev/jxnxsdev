@@ -4,6 +4,7 @@
 - 🇩🇪 Based in Germany
 - 💻 Hobby developer for 8 years
 - 📚 Full Stack Dev
+- 🚪Knows how to exit VIM
 
 ## 🛠️ Technologies & Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
