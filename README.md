@@ -18,8 +18,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Jonas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdgamer1404jonas&show_icons=true&count_private=true&hide=issues&theme=dracula)](https://github.com/hdgamer1404jonas)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdgamer1404Jonas&layout=compact&langs_count=8&theme=dracula)
+[![Jonas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxnxsdev&show_icons=true&count_private=true&hide=issues&theme=dracula)](https://github.com/hdgamer1404jonas)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxnxsdev&layout=compact&langs_count=8&theme=dracula)
 
 ## 📧 Contact Me
 - 📧 Email: [jonas@jnwh.tech](mailto:jonas@jnwh.tech)
