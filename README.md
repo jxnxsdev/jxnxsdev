@@ -47,6 +47,6 @@
 
 <h2 align="center">📧 Contact Me</h2>
 <div align="center">
-  📧 Email: <a href="mailto:jonas@jnwh.tech">jonas@jnwh.tech</a><br/>
-  🌐 Website: <a href="https://jnwh.tech">jnwh.tech</a>
+  📧 Email: <a href="mailto:hello@jxnxsdev.me">hello@jxnxsdev.me</a><br/>
+  🌐 Website: <a href="https://jxnxsdev.me">jxnxsdev.me</a>
 </div>
